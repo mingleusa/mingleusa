@@ -14,7 +14,7 @@
 
 ## What I do
 
-I build **web apps and content platforms** from the ground up — Rails APIs, WordPress, and fast reactive UIs with **Svelte and SvelteKit**. I care about type safety (TypeScript), clean styling (**CSS**, **Tailwind**, **Sass**), and shipping features that perform and scale. For the formal one-pager, see [RESUME.md](/RESUME.md).
+I build **web apps and content platforms** from the ground up — Rails APIs, WordPress, and fast reactive UIs with **Svelte and SvelteKit**. I care about type safety (TypeScript), clean styling (**CSS**, **Tailwind**, **Sass**), and shipping features that perform and scale. I also ship design systems and docs with **Astro** (see [Rizzo CSS](https://rizzo-css.vercel.app/)). For the formal one-pager, see [RESUME.md](/RESUME.md).
 
 ---
 
@@ -25,6 +25,7 @@ I build **web apps and content platforms** from the ground up — Rails APIs, Wo
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -46,7 +47,7 @@ I build **web apps and content platforms** from the ground up — Rails APIs, Wo
 - **Rails & APIs** — RESTful backends, ActiveRecord, background jobs, solid API design
 - **Svelte/SvelteKit** — Type-safe fullstack and SPAs with TypeScript
 - **UI & styling** — CSS, Tailwind, Sass; responsive, accessible, maintainable frontends
-- **WordPress** — Themes, plugins, block editor, headless WP with a modern frontend
+- **WordPress** — Sites, plugins, block editor, long-term client care; headless setups when they fit
 
 ---
 
@@ -56,15 +57,15 @@ I build **web apps and content platforms** from the ground up — Rails APIs, Wo
 |--------|--------|-------------|
 | **[Rizzo CSS](https://rizzo-css.vercel.app/)** | Astro, CSS, PostCSS | Modern CSS design system: 34 accessible components (WCAG AA), 14 themes (OKLCH), semantic theming. Vanilla, Astro, Svelte. [Repo](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css) |
 | **[Mazzullo's](https://mazzullos.com/)** | WordPress | WordPress site for Mazzullo's Premier Auto Spa (automotive detailing). Built and maintained for 10+ years: content updates and ongoing support. |
-| **[Project three](https://github.com/mingleusa/repo-three)** | Rails, Svelte, Sass | [One-line description.] |
+| **[Gunopoly](https://gunopoly.com/)** | Rails, Svelte, Tailwind | Classifieds marketplace: category and location filters, listings, sign-in, and posting. |
 
 ---
 
 ## Right now
 
-- **Building:** [What you're shipping.]
-- **Learning:** [What you're diving into.]
-- **Reading:** [Book, blog, or resource.]
+- **Building:** [Rizzo CSS](https://rizzo-css.vercel.app/) and client WordPress sites (e.g. [Mazzullo's](https://mazzullos.com/)).
+- **Learning:** *[Add what you’re focused on.]*
+- **Reading:** *[Optional.]*
 
 ---
 

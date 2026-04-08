@@ -5,7 +5,7 @@
 
 ## Summary
 
-Fullstack developer who builds web apps and content platforms from the database to the UI. Strong in **Ruby on Rails**, **Svelte & SvelteKit**, **TypeScript**, and **WordPress**, with polished frontends using **CSS**, **Tailwind**, and **Sass**. I ship features end-to-end and care about performance, clean APIs, and maintainable, accessible interfaces.
+Fullstack developer who builds web apps and content platforms from the database to the UI. Strong in **Ruby on Rails**, **Svelte & SvelteKit**, **TypeScript**, and **WordPress**, with polished frontends using **CSS**, **Tailwind**, and **Sass**. Comfortable with **Astro** for docs and design-system sites.
 
 ---
 
@@ -13,9 +13,9 @@ Fullstack developer who builds web apps and content platforms from the database 
 
 | **Frontend** | **Backend** | **Data & APIs** | **DevOps & Tooling** |
 |--------------|-------------|-----------------|----------------------|
-| Svelte, SvelteKit, TypeScript | Ruby, Ruby on Rails | PostgreSQL, ActiveRecord | Docker, CI/CD (GitHub Actions) |
-| WordPress (themes, plugins, headless) | REST APIs | Git |
-| CSS, Tailwind CSS, Sass | Auth, API design | — | — |
+| Svelte, SvelteKit, TypeScript, Astro | Ruby, Ruby on Rails | PostgreSQL, ActiveRecord | Docker, CI/CD (GitHub Actions) |
+| WordPress (sites, plugins, integrations) | REST APIs, auth | — | Git, RSpec, Vitest |
+| CSS, Tailwind CSS, Sass | — | — | — |
 
 ---
 
@@ -26,7 +26,7 @@ Fullstack developer who builds web apps and content platforms from the database 
 
 - Delivered and maintained Rails API and SvelteKit frontend; improved performance and developer experience.
 - Owned critical flows (e.g. auth, billing, content); reduced support load and improved reliability.
-- Built custom WordPress themes/plugins and headless WP integrations with modern frontends.
+- WordPress: site builds, plugins, integrations, and long-term maintenance alongside modern frontends when needed.
 
 ### **Job Title** · Company Name  
 *Month Year – Month Year*
@@ -48,10 +48,10 @@ Fullstack developer who builds web apps and content platforms from the database 
 
 - WordPress site for Mazzullo's Premier Auto Spa, an automotive detailing business in the Susquehanna Valley. Content updates, maintenance, and long-term support for 10+ years.
 
-### **Project Name** · [github.com/mingleusa/repo](https://github.com/mingleusa)  
-*Rails, Svelte, Sass*
+### **[Gunopoly](https://gunopoly.com/)**  
+*Rails, Svelte, Tailwind*
 
-- [One-line description of what it does and why it matters.]
+- Classifieds marketplace: browse and filter listings by category and location, user sign-in, and posting flow.
 
 ---
 
@@ -64,4 +64,4 @@ Fullstack developer who builds web apps and content platforms from the database 
 ## Other
 
 - **Languages:** English (native)
-- **Open source / community:** [Contributions, maintainer role, or community involvement if applicable]
+- **Open source:** Author and maintainer of [Rizzo CSS](https://github.com/mingleusa/rizzo-css) (design system, [npm](https://www.npmjs.com/package/rizzo-css))
