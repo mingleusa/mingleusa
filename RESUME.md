@@ -5,7 +5,7 @@
 
 ## Summary
 
-Fullstack developer who builds web apps and content platforms from the database to the UI. Strong in **Ruby on Rails**, **Svelte & SvelteKit**, **TypeScript**, and **WordPress**, with polished frontends using **CSS**, **Tailwind**, and **Sass**. Comfortable with **Astro** for docs and design-system sites.
+Fullstack developer who builds web apps and content platforms from the database to the UI. I work in **Ruby on Rails** and **Svelte & SvelteKit** with **TypeScript** — typically **one stack per project** (Rails *or* SvelteKit, not both together). I also build and maintain **WordPress** sites and use **CSS**, **Tailwind**, and **Sass** for styling. I ship features end-to-end and care about performance, clean APIs, and maintainable, accessible interfaces.
 
 ---
 
@@ -13,9 +13,11 @@ Fullstack developer who builds web apps and content platforms from the database 
 
 | **Frontend** | **Backend** | **Data & APIs** | **DevOps & Tooling** |
 |--------------|-------------|-----------------|----------------------|
-| Svelte, SvelteKit, TypeScript, Astro | Ruby, Ruby on Rails | PostgreSQL, ActiveRecord | Docker, CI/CD (GitHub Actions) |
+| Svelte, SvelteKit, TypeScript | Ruby, Ruby on Rails | PostgreSQL, ActiveRecord | Docker, CI/CD (GitHub Actions) |
 | WordPress (sites, plugins, integrations) | REST APIs, auth | — | Git, RSpec, Vitest |
 | CSS, Tailwind CSS, Sass | — | — | — |
+
+*Stacks are typically **Rails** (Ruby + Rails + ActiveRecord) or **SvelteKit** (Svelte + SvelteKit + TypeScript), not Rails and SvelteKit together.*
 
 ---
 
@@ -24,14 +26,15 @@ Fullstack developer who builds web apps and content platforms from the database 
 ### **Job Title** · Company Name  
 *Month Year – Present*
 
-- Delivered and maintained Rails API and SvelteKit frontend; improved performance and developer experience.
-- Owned critical flows (e.g. auth, billing, content); reduced support load and improved reliability.
-- WordPress: site builds, plugins, integrations, and long-term maintenance alongside modern frontends when needed.
+- Delivered and maintained **Rails** applications (APIs, server-side features, ActiveRecord); improved performance and reliability.
+- Shipped **SvelteKit** apps with TypeScript; improved UX and developer experience.
+- Owned critical flows (e.g. auth, billing, content); reduced support load where applicable.
+- WordPress: site builds, plugins, integrations, and long-term maintenance.
 
 ### **Job Title** · Company Name  
 *Month Year – Month Year*
 
-- Shipped fullstack features using Rails and Svelte/TypeScript; collaborated with design and product.
+- Shipped fullstack features in **Rails** or **SvelteKit** (depending on project); collaborated with design and product.
 - Wrote maintainable CSS and component-based UIs with Tailwind and Sass where appropriate.
 
 ---
@@ -39,9 +42,9 @@ Fullstack developer who builds web apps and content platforms from the database 
 ## Projects
 
 ### **[Rizzo CSS](https://rizzo-css.vercel.app/)**  
-*Astro, CSS, PostCSS, semantic theming · [GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)*
+*CSS, PostCSS, semantic theming · docs site built with Astro · [GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)*
 
-- Modern CSS design system with 34 accessibility-first components (WCAG AA), 14 themes (OKLCH), full keyboard/ARIA support, and CLI (`npx rizzo-css init`). Works across Vanilla, Astro, and Svelte. Published on npm.
+- Modern CSS design system with 34 accessibility-first components (WCAG AA), 14 themes (OKLCH), full keyboard/ARIA support, and CLI (`npx rizzo-css init`). Usable from Vanilla, Svelte, and similar stacks. Published on npm.
 
 ### **[Mazzullo's](https://mazzullos.com/)**  
 *WordPress · 10+ years built & maintained*
@@ -49,9 +52,9 @@ Fullstack developer who builds web apps and content platforms from the database 
 - WordPress site for Mazzullo's Premier Auto Spa, an automotive detailing business in the Susquehanna Valley. Content updates, maintenance, and long-term support for 10+ years.
 
 ### **[Gunopoly](https://gunopoly.com/)**  
-*Rails, Svelte, Tailwind*
+*Ruby on Rails, Hotwire (Turbo, Stimulus), Tailwind CSS, Action Text*
 
-- Classifieds marketplace: browse and filter listings by category and location, user sign-in, and posting flow.
+- Classifieds marketplace: browse and filter listings by category and location, user sign-in, and posting flow. Server-rendered Rails with Turbo-driven navigation and Stimulus controllers.
 
 ---
 

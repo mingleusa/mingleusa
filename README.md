@@ -57,7 +57,7 @@ I build **web apps and content platforms** from the ground up — Rails APIs, Wo
 |--------|--------|-------------|
 | **[Rizzo CSS](https://rizzo-css.vercel.app/)** | Astro, CSS, PostCSS | Modern CSS design system: 34 accessible components (WCAG AA), 14 themes (OKLCH), semantic theming. Vanilla, Astro, Svelte. [Repo](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css) |
 | **[Mazzullo's](https://mazzullos.com/)** | WordPress | WordPress site for Mazzullo's Premier Auto Spa (automotive detailing). Built and maintained for 10+ years: content updates and ongoing support. |
-| **[Gunopoly](https://gunopoly.com/)** | Rails, Svelte, Tailwind | Classifieds marketplace: category and location filters, listings, sign-in, and posting. |
+| **[Gunopoly](https://gunopoly.com/)** | Rails, Hotwire, Tailwind | Classifieds marketplace: category and location filters, listings, sign-in, and posting. Turbo + Stimulus on the front end. |
 
 ---
 
