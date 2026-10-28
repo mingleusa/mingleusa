@@ -1,92 +1,71 @@
 # Jordan Mingle
 
-**Fullstack Developer** · Pennsylvania, United States · <hello@jordanmingle.dev> · [LinkedIn](https://www.linkedin.com/in/jordanmingle/) · [GitHub](https://github.com/mingleusa)
+**Full-Stack Developer** · Pennsylvania, United States · <hello@jordanmingle.dev> · [jordanmingle.dev](https://jordanmingle.dev) · [LinkedIn](https://www.linkedin.com/in/jordanmingle/) · [GitHub](https://github.com/mingleusa)
 
 ---
 
-## Summary
+## Professional Summary
 
-Fullstack developer who has owned every layer of the web — from bench-level hardware repair to running an independent development company. I build in **Ruby on Rails** and **Svelte & SvelteKit** with **TypeScript**, typically one stack per project, and maintain **WordPress** sites with **CSS**, **Tailwind**, and **Sass**. Nearly two decades of hands-on technical work across retail support, team-based web development, solo freelance practice, and now founding my own company. I ship end-to-end — infrastructure, backend, frontend, and client relationships — and care about performance, clean APIs, and interfaces that hold up in production.
+Full-stack developer with nearly two decades of hands-on technical work, spanning hardware repair, team-based web development, solo freelancing, and founding Dev Thunder. Specializes in **Ruby on Rails** and **SvelteKit** with **TypeScript**, builds custom **WordPress** plugins and themes, and has delivered 13+ client and product projects end to end, from infrastructure to frontend, with a focus on performance, accessibility, and clean APIs.
 
 ---
 
 ## Technical Skills
 
-| **Frontend**                             | **Backend**          | **Data & APIs**          | **DevOps & Tooling**           |
-| ----------------------------------------- | --------------------- | ------------------------- | -------------------------------- |
-| Svelte, SvelteKit, TypeScript             | Ruby, Ruby on Rails   | PostgreSQL, ActiveRecord  | Docker, CI/CD (GitHub Actions)   |
-| WordPress (sites, plugins, integrations)  | REST APIs, auth       | —                          | Git, RSpec, Vitest               |
-| CSS, Tailwind CSS, Sass                   | —                      | —                          | Domains, hosting, SSL management |
-
-*Stacks are typically **Rails** (Ruby + Rails + ActiveRecord) or **SvelteKit** (Svelte + SvelteKit + TypeScript), not combined on the same project.*
+- **Languages:** Ruby, JavaScript, TypeScript, PHP, HTML, CSS, Sass
+- **Frameworks & Platforms:** Ruby on Rails, Hotwire (Turbo, Stimulus), SvelteKit, Svelte, Tailwind CSS, WordPress (Elementor, WooCommerce, custom plugins)
+- **Data & APIs:** PostgreSQL, SQLite, ActiveRecord, REST APIs, third-party API integrations, authentication
+- **Tools & DevOps:** Git, GitHub Actions (CI/CD), Docker, RSpec, Vitest, Playwright, Cloudflare, Plesk, web hosting, domains, SSL
 
 ---
 
-## Experience
+## Work Experience
 
 ### **Founder & Full-Stack Developer** · Dev Thunder
-*2021 – Present*
 
-- Own the stack end-to-end: marketing and product sites, APIs, front-end state, and accessibility
-- Ship releases with tests and logging on high-risk paths
-- Serve local clients across north-central Pennsylvania alongside remote collaborators
-- Building Dev Thunder toward a combined web hosting and development offering
+_2021 - Present_
+
+- Own the full stack for client work with Ruby on Rails and SvelteKit: marketing and product sites, APIs, front-end state, and accessibility
+- Ship releases with automated tests, CI, and logging on high-risk paths
+- Serve local clients across north-central Pennsylvania; expanding toward a combined web hosting and development offering
 
 ### **Freelance Web Designer** · Jordan Mingle Web Designs
-*2017 – 2021*
 
-- Ran an independent freelance practice, handling design and development solo from client intake through delivery
-- Owned every stage of the project lifecycle — scoping, design, build, and client communication — without a team to lean on
-- Operated in parallel with team-based work at My Domain Labs, building a personal client base under your own name
+_2019 - 2021_
+
+- Ran an independent design and development practice, owning each project from scoping through delivery and all client communication
+- Designed, built, and maintained websites for independent clients under the Jordan Mingle Web Designs name
 
 ### **Web Developer** · My Domain Labs
-*2014 – 2019*
 
-- Built and maintained client sites as part of a team, from hand-rolled HTML/CSS/JS through CMS-backed builds
-- Managed domains, hosting, and SSL alongside deploys — owning infrastructure from registration through production
-- Maintained direct client relationships, handling production fixes and keeping stacks maintainable
+_2014 - 2019_
+
+- Built and maintained client websites on a development team, from hand-coded HTML/CSS/JS to CMS-backed builds
+- Managed domains, hosting, and SSL alongside deployments; handled production fixes and direct client relationships
 
 ### **Sales & Bench Technician** · Eastside Computer
-*2008 – 2013*
 
-- Retail and bench work in computer sales and support: triage, diagnostics, and parts sourcing
-- Built a practical, ground-up understanding of hardware failure modes
-- Translated technical trade-offs into plain terms for customers — a skill that carries into client work today
+_2008 - 2013_
+
+- Sold and supported computer hardware, handling triage, diagnostics, and parts sourcing at the bench
+- Translated technical trade-offs into plain terms for customers
 
 ---
 
 ## Projects
 
-### **[Rizzo CSS](https://rizzo-css.vercel.app/)**
-*CSS, PostCSS, semantic theming · docs site built with Astro · [GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)*
-
-- Modern CSS design system with 34 accessibility-first components (WCAG AA), 14 themes (OKLCH), full keyboard/ARIA support, and CLI (`npx rizzo-css init`). Usable from Vanilla, Svelte, and similar stacks. Published on npm.
-
-### **[Mazzullo's](https://mazzullos.com/)**
-*WordPress · 10+ years built & maintained*
-
-- WordPress site for Mazzullo's Premier Auto Spa, an automotive detailing business in the Susquehanna Valley. Content updates, maintenance, and long-term support for 10+ years.
-
-### **[Gunopoly](https://gunopoly.com/)**
-*Ruby on Rails, Hotwire (Turbo, Stimulus), Tailwind CSS, Action Text*
-
-- Classifieds marketplace: browse and filter listings by category and location, user sign-in, and posting flow. Server-rendered Rails with Turbo-driven navigation and Stimulus controllers.
+- **[Block Bros](https://blockbros.io)**: cryptocurrency news and market hub on WordPress, with a custom plugin suite (watchlist, top movers, whale activity, Fear & Greed, news feed, price ticker) and an Astra child theme
+- **[Zerobsratings](https://zerobsratings.com)**: Rails review platform on Hotwire and Tailwind CSS, every review tied to a verified purchase receipt
+- **[Gunopoly](https://gunopoly.com)**: classifieds marketplace and forum on Rails, Hotwire, and Tailwind CSS, with location filtering
+- **[YZ Construction](https://yzconstruction.llc)**: lead-generating roofing contractor site on SvelteKit and Tailwind CSS
+- **[jordanmingle.dev](https://jordanmingle.dev)**: my portfolio and custom CMS in SvelteKit and TypeScript, with tests, accessibility checks, and CI
+- **[Rizzo CSS](https://rizzo-css.vercel.app)** ([GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)): open-source CSS design system with 58 accessibility-first components (WCAG AA), 14 OKLCH themes, and a CLI; published on npm
+- **[Client Portfolio](https://jordanmingle.dev/works)**: 13 client sites and apps, including Mazzullo's Premier Auto Spa (maintained since 2017), Tonys Salon, and Phased Alloy
 
 ---
 
 ## Education & Certifications
 
-**Hughesville Jr./Sr. High School** — High School Diploma (2007), Computer Technology program
-
-**Penn Foster College** — Web Page Designer Career Diploma
-College credential in web page design and layout fundamentals.
-
-**freeCodeCamp** — Full Stack Developer Certification (legacy), built on:
-Responsive Web Design · JavaScript Algorithms and Data Structures · Frontend Libraries · Data Visualization · Back End Development and APIs · Quality Assurance · Information Security
-
----
-
-## Other
-
-- **Languages:** English (native)
-- **Open source:** Author and maintainer of [Rizzo CSS](https://github.com/mingleusa/rizzo-css) (design system, [npm](https://www.npmjs.com/package/rizzo-css))
+- **Penn Foster College:** Web Page Designer Career Diploma
+- **freeCodeCamp:** Full Stack Developer Certification (legacy)
+- **Hughesville Jr./Sr. High School:** Diploma (2007), Computer Technology program

@@ -1,8 +1,8 @@
-<img src="./banner.svg" alt="Jordan Mingle — Fullstack Developer, Pennsylvania" width="100%" />
+<img src="./banner.svg" alt="Jordan Mingle - Full-Stack Developer, Pennsylvania" width="100%" />
 
-Fullstack developer in Pennsylvania. I've been building on the web since 2014 — team-based development, solo freelance, and now running my own company, **Dev Thunder**.
+Full-stack developer in Pennsylvania. I've been building on the web since 2014: team-based development, solo freelance, and now running my own company, **Dev Thunder**.
 
-I build in **Ruby on Rails** and **Svelte & SvelteKit** with **TypeScript** (one stack per project), maintain long-running **WordPress** sites, and style with **CSS / Tailwind / Sass**. Nearly two decades of hands-on technical work, from bench-level hardware repair to shipping production apps end-to-end.
+I specialize in **Ruby on Rails** and **SvelteKit** with **TypeScript**, build custom **WordPress** plugins and themes, and style with **CSS / Tailwind / Sass**. Nearly two decades of hands-on technical work, from hardware repair to 13+ client and product projects delivered end to end, with a focus on performance, accessibility, and clean APIs.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
@@ -28,7 +28,7 @@ $ bench --readout
 [OK]  Rails & APIs        ActiveRecord, background jobs, auth
 [OK]  Svelte / SvelteKit  Type-safe fullstack apps, TypeScript
 [OK]  UI & styling        Accessible CSS, Tailwind, Sass
-[OK]  WordPress           Long-term client sites, maintained for years
+[OK]  WordPress           Custom plugins, themes, long-term client sites
 [OK]  Infrastructure      Domains, hosting, SSL, deploy pipeline
 ```
 
@@ -36,10 +36,10 @@ $ bench --readout
 
 ### 🛠️ How I got here
 
-1. **2008 – Eastside Computer** — retail and bench work: triage, diagnostics, parts sourcing. Learned how hardware actually fails.
-2. **2014 – My Domain Labs** — team-based web development: client sites, hosting, domains, SSL, deploys.
-3. **2017 – Jordan Mingle Web Designs** — went solo, running freelance client work in parallel with the team job.
-4. **2021 – Dev Thunder** — founded my own company, now building toward combined hosting + development.
+1. **2008 - Eastside Computer**: retail and bench work: triage, diagnostics, parts sourcing.
+2. **2014 - My Domain Labs**: team-based web development: client sites, hosting, domains, SSL, deploys.
+3. **2019 - Jordan Mingle Web Designs**: went solo as an independent freelancer, owning each project from scoping to delivery.
+4. **2021 - Dev Thunder**: founded my own company, now building toward combined hosting + development.
 
 <img src="./divider.svg" width="100%" height="16" alt="" />
 
@@ -64,9 +64,9 @@ $ bench --readout
 
 **[Rizzo CSS](https://rizzo-css.vercel.app/)**
 
-My own CSS design system — 34 accessibility-first components (WCAG AA), 14 OKLCH themes, full keyboard/ARIA support. Published on npm.
+My own CSS design system: 58 accessibility-first components (WCAG AA), 14 OKLCH themes, and a CLI. Published on npm.
 
-`CSS` `PostCSS` `Astro`
+`CSS` `PostCSS` `OKLCH`
 
 [GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)
 
@@ -75,7 +75,7 @@ My own CSS design system — 34 accessibility-first components (WCAG AA), 14 OKL
 
 **[Mazzullo's](https://mazzullos.com/)**
 
-WordPress site for a detailing shop — built and maintained 10+ years and counting.
+WordPress site for an auto detailing shop, maintained since 2017.
 
 `WordPress` `Long-term maintenance`
 
@@ -84,7 +84,7 @@ WordPress site for a detailing shop — built and maintained 10+ years and count
 
 **[Gunopoly](https://gunopoly.com/)**
 
-A classifieds marketplace: browse, filter, sign in, and post listings.
+A classifieds marketplace and forum with location filtering.
 
 `Rails` `Hotwire` `Tailwind`
 
@@ -96,9 +96,9 @@ A classifieds marketplace: browse, filter, sign in, and post listings.
 
 ### 🏢 Dev Thunder
 
-`[●] status: building — full-stack dev now, hosting coming online`
+`[●] status: building - full-stack dev now, hosting coming online`
 
-My own company — currently full-stack development, building toward a combined web hosting and development offering. Working with local clients across north-central Pennsylvania and remote collaborators.
+My own company: full-stack development for local clients across north-central Pennsylvania, expanding toward a combined web hosting and development offering.
 
 <img src="./divider.svg" width="100%" height="16" alt="" />
 
