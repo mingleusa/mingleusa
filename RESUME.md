@@ -1,10 +1,12 @@
+<img src="./banner.svg" alt="Jordan Mingle - Full-Stack Developer, Pennsylvania" width="100%" />
+
 # Jordan Mingle
 
 **Full-Stack Developer** · Pennsylvania, United States · <hello@jordanmingle.dev> · [jordanmingle.dev](https://jordanmingle.dev) · [LinkedIn](https://www.linkedin.com/in/jordanmingle/) · [GitHub](https://github.com/mingleusa)
 
 ---
 
-## Professional Summary
+## Summary
 
 Full-stack developer with nearly two decades of hands-on technical work, spanning hardware repair, team-based web development, solo freelancing, and founding Dev Thunder. Specializes in **Ruby on Rails** and **SvelteKit** with **TypeScript**, builds custom **WordPress** plugins and themes, and has delivered 13+ client and product projects end to end, from infrastructure to frontend, with a focus on performance, accessibility, and clean APIs.
 
@@ -12,14 +14,15 @@ Full-stack developer with nearly two decades of hands-on technical work, spannin
 
 ## Technical Skills
 
-- **Languages:** Ruby, JavaScript, TypeScript, PHP, HTML, CSS, Sass
-- **Frameworks & Platforms:** Ruby on Rails, Hotwire (Turbo, Stimulus), SvelteKit, Svelte, Tailwind CSS, WordPress (Elementor, WooCommerce, custom plugins)
-- **Data & APIs:** PostgreSQL, SQLite, ActiveRecord, REST APIs, third-party API integrations, authentication
-- **Tools & DevOps:** Git, GitHub Actions (CI/CD), Docker, RSpec, Vitest, Playwright, Cloudflare, Plesk, web hosting, domains, SSL
+| **Frontend**                                  | **Backend**                       | **Data & APIs**                   | **DevOps & Tooling**                     |
+| --------------------------------------------- | --------------------------------- | --------------------------------- | ---------------------------------------- |
+| Svelte, SvelteKit, TypeScript                 | Ruby, Ruby on Rails, Hotwire      | PostgreSQL, SQLite, ActiveRecord  | Docker, CI/CD (GitHub Actions)           |
+| WordPress (Elementor, WooCommerce, plugins)   | PHP, REST APIs, authentication    | Third-party API integrations      | Git, RSpec, Vitest, Playwright           |
+| HTML, CSS, Tailwind CSS, Sass                 | JavaScript                        | -                                 | Cloudflare, Plesk, hosting, domains, SSL |
 
 ---
 
-## Work Experience
+## Experience
 
 ### **Founder & Full-Stack Developer** · Dev Thunder
 
@@ -54,18 +57,54 @@ _2008 - 2013_
 
 ## Projects
 
-- **[Block Bros](https://blockbros.io)**: cryptocurrency news and market hub on WordPress, with a custom plugin suite (watchlist, top movers, whale activity, Fear & Greed, news feed, price ticker) and an Astra child theme
-- **[Zerobsratings](https://zerobsratings.com)**: Rails review platform on Hotwire and Tailwind CSS, every review tied to a verified purchase receipt
-- **[Gunopoly](https://gunopoly.com)**: classifieds marketplace and forum on Rails, Hotwire, and Tailwind CSS, with location filtering
-- **[YZ Construction](https://yzconstruction.llc)**: lead-generating roofing contractor site on SvelteKit and Tailwind CSS
-- **[jordanmingle.dev](https://jordanmingle.dev)**: my portfolio and custom CMS in SvelteKit and TypeScript, with tests, accessibility checks, and CI
-- **[Rizzo CSS](https://rizzo-css.vercel.app)** ([GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)): open-source CSS design system with 58 accessibility-first components (WCAG AA), 14 OKLCH themes, and a CLI; published on npm
-- **[Client Portfolio](https://jordanmingle.dev/works)**: 13 client sites and apps, including Mazzullo's Premier Auto Spa (maintained since 2017), Tonys Salon, and Phased Alloy
+### **[Rizzo CSS](https://rizzo-css.vercel.app/)**
+
+_CSS, PostCSS, OKLCH theming · [GitHub](https://github.com/mingleusa/rizzo-css) · [npm](https://www.npmjs.com/package/rizzo-css)_
+
+- Open-source CSS design system with 58 accessibility-first components (WCAG AA), 14 OKLCH themes, and a CLI. Published on npm.
+
+### **[jordanmingle.dev](https://jordanmingle.dev)**
+
+_SvelteKit, TypeScript_
+
+- My portfolio and custom CMS, with tests, accessibility checks, and CI.
+
+### **[Block Bros](https://blockbros.io)**
+
+_WordPress, custom plugins, Astra child theme_
+
+- Cryptocurrency news and market hub with a custom plugin suite: watchlist, top movers, whale activity, Fear & Greed, news feed, and price ticker.
+
+### **[Zerobsratings](https://zerobsratings.com)**
+
+_Ruby on Rails, Hotwire, Tailwind CSS_
+
+- Review platform where every review is tied to a verified purchase receipt.
+
+### **[Gunopoly](https://gunopoly.com/)**
+
+_Ruby on Rails, Hotwire (Turbo, Stimulus), Tailwind CSS_
+
+- Classifieds marketplace and forum with location filtering.
+
+### **[YZ Construction](https://yzconstruction.llc)**
+
+_SvelteKit, Tailwind CSS_
+
+- Lead-generating roofing contractor site.
+
+### **[Client Portfolio](https://jordanmingle.dev/works)**
+
+_WordPress, Rails, SvelteKit_
+
+- 13 client sites and apps, including Mazzullo's Premier Auto Spa (maintained since 2017), Tonys Salon, and Phased Alloy.
 
 ---
 
 ## Education & Certifications
 
-- **Penn Foster College:** Web Page Designer Career Diploma
-- **freeCodeCamp:** Full Stack Developer Certification (legacy)
-- **Hughesville Jr./Sr. High School:** Diploma (2007), Computer Technology program
+**Hughesville Jr./Sr. High School** - Diploma (2007), Computer Technology program
+
+**Penn Foster College** - Web Page Designer Career Diploma
+
+**freeCodeCamp** - Full Stack Developer Certification (legacy)
