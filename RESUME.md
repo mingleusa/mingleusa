@@ -43,7 +43,7 @@ _2018 - 2021_
 
 ### **Freelance Web Designer** · Jordan Mingle Web Designs
 
-_2016 - 2018_
+_2017 - 2019_
 
 - Ran an independent design and development practice, owning each project from scoping through delivery and all client communication
 - Designed, built, and maintained websites for independent clients under the Jordan Mingle Web Designs name
@@ -55,11 +55,11 @@ _2014 - 2016_
 - Sold and supported computer hardware, handling triage, diagnostics, and parts sourcing at the bench
 - Translated technical trade-offs into plain terms for customers
 
-### **Computer Hardware & IT Repair Technician**
+### **Freelance Computer & IT Repair Technician**
 
 _2008 - 2013_
 
-- Diagnosed and repaired computer hardware and fixed IT problems for customers
+- Completed 100+ computer hardware and IT repairs for customers as an independent technician
 - Explained each fault and the repair options in plain terms
 
 ---
