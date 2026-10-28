@@ -1,6 +1,6 @@
 <img src="./banner.svg" alt="Jordan Mingle - Full-Stack Developer, Pennsylvania" width="100%" />
 
-Full-stack developer in Pennsylvania. I've been building on the web since 2014: team-based development, solo freelance, and now running my own company, **Dev Thunder**.
+Full-stack developer in Pennsylvania. I've been building on the web since 2016: solo freelance, team-based development, and now running my own company, **Dev Thunder**.
 
 I specialize in **Ruby on Rails** and **SvelteKit** with **TypeScript**, build custom **WordPress** plugins and themes, and style with **CSS / Tailwind / Sass**. Nearly two decades of hands-on technical work, from hardware repair to 13+ client and product projects delivered end to end, with a focus on performance, accessibility, and clean APIs.
 
@@ -36,10 +36,11 @@ $ bench --readout
 
 ### 🛠️ How I got here
 
-1. **2008 - Eastside Computer**: retail and bench work: triage, diagnostics, parts sourcing.
-2. **2014 - My Domain Labs**: team-based web development: client sites, hosting, domains, SSL, deploys.
-3. **2019 - Jordan Mingle Web Designs**: went solo as an independent freelancer, owning each project from scoping to delivery.
-4. **2021 - Dev Thunder**: founded my own company, now building toward combined hosting + development.
+1. **2008 - Hardware & IT repair**: diagnosing and repairing computers, and explaining each fault in plain terms.
+2. **2014 - Eastside Computer**: retail and bench work: triage, diagnostics, parts sourcing.
+3. **2016 - Jordan Mingle Web Designs**: went solo as an independent freelancer, owning each project from scoping to delivery.
+4. **2018 - My Domain Labs**: team-based web development: client sites, hosting, domains, SSL, deploys.
+5. **2021 - Dev Thunder**: founded my own company, now building toward combined hosting + development.
 
 <img src="./divider.svg" width="100%" height="16" alt="" />
 
