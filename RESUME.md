@@ -63,6 +63,12 @@ _CSS, PostCSS, OKLCH theming · [GitHub](https://github.com/mingleusa/rizzo-css)
 
 - Open-source CSS design system with 58 accessibility-first components (WCAG AA), 14 OKLCH themes, and a CLI. Published on npm.
 
+### **[Growth Combat Sports](https://growthcombatsports.com)**
+
+_WordPress, Elementor, Blocksy_
+
+- Combat sports gym site.
+
 ### **[jordanmingle.dev](https://jordanmingle.dev)**
 
 _SvelteKit, TypeScript_
@@ -107,4 +113,4 @@ _WordPress, Rails, SvelteKit_
 
 **Penn Foster College** - Web Page Designer Career Diploma
 
-**freeCodeCamp** - Full Stack Developer Certification (legacy)
+**freeCodeCamp** - 11 certifications, including Legacy Full-Stack Developer and Information Security
