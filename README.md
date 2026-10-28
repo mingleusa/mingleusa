@@ -36,7 +36,7 @@ $ bench --readout
 
 ### 🛠️ How I got here
 
-1. **2008 - Freelance IT repair**: 100+ computer hardware and IT repairs, explaining each fault in plain terms.
+1. **2008 - Freelance IT repair**: 150+ computer hardware and IT repairs, explaining each fault in plain terms.
 2. **2014 - Eastside Computer**: retail and bench work: triage, diagnostics, parts sourcing.
 3. **2017 - Jordan Mingle Web Designs**: went solo as an independent freelancer, owning each project from scoping to delivery.
 4. **2018 - My Domain Labs**: team-based web development: client sites, hosting, domains, SSL, deploys.

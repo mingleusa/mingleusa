@@ -59,7 +59,7 @@ _2014 - 2016_
 
 _2008 - 2013_
 
-- Completed 100+ computer hardware and IT repairs for customers as an independent technician
+- Completed 150+ computer hardware and IT repairs for customers as an independent technician
 - Explained each fault and the repair options in plain terms
 
 ---
@@ -96,6 +96,6 @@ _WordPress, Rails, SvelteKit_
 
 **Hughesville Jr./Sr. High School** - Diploma (2007), Computer Technology program
 
-**Penn Foster College** - Web Page Designer Career Diploma
+**Penn Foster College** - Web Page Designer Career Diploma (2016)
 
 **freeCodeCamp** - 11 certifications, including Legacy Full-Stack Developer and Information Security
