@@ -14,11 +14,11 @@ Full-stack developer with nearly two decades of hands-on technical work, spannin
 
 ## Technical Skills
 
-| **Frontend**                                  | **Backend**                       | **Data & APIs**                   | **DevOps & Tooling**                     |
-| --------------------------------------------- | --------------------------------- | --------------------------------- | ---------------------------------------- |
-| Svelte, SvelteKit, TypeScript                 | Ruby, Ruby on Rails, Hotwire      | PostgreSQL, SQLite, ActiveRecord  | Docker, CI/CD (GitHub Actions)           |
-| WordPress (Elementor, WooCommerce, plugins)   | PHP, REST APIs, authentication    | Third-party API integrations      | Linux (SSH, systemd), Git, RSpec, Vitest, Playwright           |
-| HTML, CSS, Tailwind CSS, Sass                 | JavaScript                        | -                                 | Cloudflare, Plesk, hosting, domains, SSL |
+| **Frontend**                                | **Backend**                                    | **Data & APIs**                  | **DevOps & Tooling**                                                  |
+| ------------------------------------------- | ---------------------------------------------- | -------------------------------- | --------------------------------------------------------------------- |
+| Svelte, SvelteKit, TypeScript               | Ruby, Ruby on Rails, Hotwire (Turbo, Stimulus) | PostgreSQL, SQLite, ActiveRecord | Docker, CI/CD (GitHub Actions)                                        |
+| WordPress (Elementor, WooCommerce, plugins) | PHP, REST APIs, authentication                 | Third-party API integrations     | Linux (SSH, systemd, shell scripting), Git, RSpec, Vitest, Playwright |
+| HTML, CSS, Tailwind CSS, Sass               | JavaScript                                     | -                                | Cloudflare, Plesk, hosting, DNS, SSL                                  |
 
 ---
 
@@ -45,7 +45,7 @@ _2018 - 2021_
 
 _2017 - 2019_
 
-- Ran an independent design and development practice, owning each project from scoping through delivery and all client communication
+- Ran an independent design and development practice, owning each project from scoping through delivery and client communication
 - Designed, built, and maintained websites for independent clients under the Jordan Mingle Web Designs name
 
 ### **Sales & Bench Technician** · Eastside Computer
@@ -94,8 +94,8 @@ _WordPress, Rails, SvelteKit_
 
 ## Education & Certifications
 
-**Hughesville Jr./Sr. High School** - Diploma (2007), Computer Technology program
-
 **Penn Foster College** - Web Page Designer Career Diploma (2016)
 
 **freeCodeCamp** - 11 certifications, including Legacy Full-Stack Developer and Information Security
+
+**Hughesville Jr./Sr. High School** - Diploma (2007), Computer Technology program
